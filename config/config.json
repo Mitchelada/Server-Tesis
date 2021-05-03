@@ -1,0 +1,9 @@
+{
+    "development": {
+        "username": "admin",
+        "password": "Stackoverflow1",
+        "database": "prioritization",
+        "host": "tesis-michel-araya.cd0d0vj649kh.us-west-2.rds.amazonaws.com",
+        "dialect": "mysql"
+    }
+}
